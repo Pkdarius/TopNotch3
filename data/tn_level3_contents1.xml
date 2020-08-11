@@ -1,0 +1,863 @@
+<hierarchy>
+	<global/>
+	<children>
+		<child>
+			<data>
+				<title><![CDATA[<b>CONTENTS</b>]]></title>
+		 <enabled>0</enabled>
+			</data>
+	</child>
+	<child>
+			<data>
+            <id>a</id>
+				<title><![CDATA[<b>Learning Objectives</b>]]></title>
+				<function name="gotoPage">
+						<parameter name="page"><![CDATA[iv]]></parameter>
+				</function>
+			</data>
+	</child>
+		<child>
+			<data>
+            <id>b</id>
+				<title><![CDATA[<b>Unit 1:</b> Make Small Talk]]></title>
+			</data>
+			<children>
+				<child>
+				<data>
+                <id>1</id>
+						<title><![CDATA[Preview]]></title>
+						<function name="gotoPage">
+						<parameter name="page"><![CDATA[2]]></parameter>
+						</function>
+					</data>
+				</child>
+					<child>
+					<data>
+                    <id>2</id>
+						<title><![CDATA[Lesson 1: Make small talk ]]></title>
+						<function name="gotoPage">
+						<parameter name="page"><![CDATA[4]]></parameter>
+						</function>
+					</data>
+				</child>
+				<child>
+					<data>
+                    <id>3</id>
+						<title><![CDATA[Lesson 2: Describe a busy schedule ]]></title>
+						<function name="gotoPage">
+						<parameter name="page"><![CDATA[6]]></parameter>
+						</function>
+					</data>
+				</child>
+				<child>
+					<data>
+                    <id>4</id>
+						<title><![CDATA[Lesson 3: Develop your cultural awareness ]]></title>
+						<function name="gotoPage">
+						<parameter name="page"><![CDATA[8]]></parameter>
+						</function>
+					</data>
+				</child>
+				<child>
+					<data>
+                    <id>5</id>
+						<title><![CDATA[Lesson 4: Discuss how culture changes over time ]]></title>
+						<function name="gotoPage">
+						<parameter name="page"><![CDATA[10]]></parameter>
+						</function>
+					</data>
+				</child>
+				<child>
+					<data>
+                    <id>6</id>
+						<title><![CDATA[Review ]]></title>
+						<function name="gotoPage">
+						<parameter name="page"><![CDATA[12]]></parameter>
+						</function>
+					</data>
+				</child>
+			</children>
+		</child>
+		<child>
+			<data>
+            <id>c</id>
+				<title><![CDATA[<b>Unit 2:</b> Health Matters]]></title>
+			</data>
+			<children>
+				<child>
+					<data>
+                    <id>1</id>
+						<title><![CDATA[Preview ]]></title>
+						<function name="gotoPage">
+						<parameter name="page"><![CDATA[14]]></parameter>
+						</function>
+					</data>
+				</child>
+				<child>
+					<data>
+                    <id>2</id>
+						<title><![CDATA[Lesson 1: Call in sick]]></title>
+						<function name="gotoPage">
+						<parameter name="page"><![CDATA[16]]></parameter>
+						</function>
+					</data>
+				</child>
+				<child>
+					<data>
+                    <id>3</id>
+						<title><![CDATA[Lesson 2: Make a medical or dental appointment ]]></title>
+						<function name="gotoPage">
+						<parameter name="page"><![CDATA[18]]></parameter>
+						</function>
+					</data>
+				</child>
+				<child>
+					<data>
+                    <id>4</id>
+						<title><![CDATA[Lesson 3: Discuss types of treatments ]]></title>
+						<function name="gotoPage">
+						<parameter name="page"><![CDATA[20]]></parameter>
+						</function>
+					</data>
+				</child>
+				<child>
+					<data>
+                    <id>5</id>
+						<title><![CDATA[Lesson 4: Talk about medications ]]></title>
+						<function name="gotoPage">
+						<parameter name="page"><![CDATA[22]]></parameter>
+						</function>
+					</data>
+				</child>
+					<child>
+					<data>
+                    <id>6</id>
+						<title><![CDATA[Review ]]></title>
+						<function name="gotoPage">
+						<parameter name="page"><![CDATA[24]]></parameter>
+						</function>
+				</data>
+				</child>
+			</children>
+		</child>
+<child>
+			<data>
+            <id>d</id>
+				<title><![CDATA[<b>Unit 3:</b> Getting Things Done]]></title>
+			</data>
+			<children>
+				<child>
+					<data>
+                    <id>1</id>
+						<title><![CDATA[Preview ]]></title>
+						<function name="gotoPage">
+						<parameter name="page"><![CDATA[26]]></parameter>
+						</function>
+					</data>
+				</child>
+				<child>
+					<data>
+                    <id>2</id>
+						<title><![CDATA[Lesson 1: Get someone else to do something ]]></title>
+						<function name="gotoPage">
+						<parameter name="page"><![CDATA[28]]></parameter>
+						</function>
+					</data>
+				</child>
+				<child>
+					<data>
+                    <id>3</id>
+						<title><![CDATA[Lesson 2: Request express service ]]></title>
+						<function name="gotoPage">
+						<parameter name="page"><![CDATA[30]]></parameter>
+						</function>
+					</data>
+				</child>
+				<child>
+					<data>
+                    <id>4</id>
+						<title><![CDATA[Lesson 3: Evaluate the quality of service]]></title>
+						<function name="gotoPage">
+						<parameter name="page"><![CDATA[32]]></parameter>
+						</function>
+					</data>
+				</child>
+				<child>
+					<data>
+                    <id>5</id>
+						<title><![CDATA[Lesson 4: Plan a meeting or social event ]]></title>
+						<function name="gotoPage">
+						<parameter name="page"><![CDATA[34]]></parameter>
+						</function>
+					</data>
+				</child>
+					<child>
+					<data>
+                    <id>6</id>
+						<title><![CDATA[Review ]]></title>
+						<function name="gotoPage">
+						<parameter name="page"><![CDATA[36]]></parameter>
+						</function>
+					</data>
+				</child>
+				</children>
+			</child>
+
+		<child>
+			<data>
+            <id>e</id>
+				<title><![CDATA[<b>Unit 4:</b> Reading for Pleasure]]></title>
+			</data>
+			<children>
+				<child>
+					<data>
+                    <id>1</id>
+						<title><![CDATA[Preview ]]></title>
+						<function name="gotoPage">
+						<parameter name="page"><![CDATA[38]]></parameter>
+						</function>
+					</data>
+				</child>
+				<child>
+					<data>
+                    <id>2</id>
+						<title><![CDATA[Lesson 1: Recommend a book  ]]></title>
+						<function name="gotoPage">
+						<parameter name="page"><![CDATA[40]]></parameter>
+						</function>
+					</data>
+				</child>
+				<child>
+					<data>
+                    <id>3</id>
+						<title><![CDATA[Lesson 2: Offer to lend something ]]></title>
+						<function name="gotoPage">
+						<parameter name="page"><![CDATA[42]]></parameter>
+						</function>
+					</data>
+				</child>
+				<child>
+					<data>
+                    <id>4</id>
+						<title><![CDATA[Lesson 3: Describe your reading habits ]]></title>
+						<function name="gotoPage">
+						<parameter name="page"><![CDATA[44]]></parameter>
+						</function>
+					</data>
+				</child>
+				<child>
+					<data>
+                    <id>5</id>
+						<title><![CDATA[Lesson 4: Discuss the quality of reading materials]]></title>
+						<function name="gotoPage">
+						<parameter name="page"><![CDATA[46]]></parameter>
+						</function>
+					</data>
+				</child>
+					<child>
+					<data>
+                    <id>6</id>
+						<title><![CDATA[Review ]]></title>
+						<function name="gotoPage">
+						<parameter name="page"><![CDATA[48]]></parameter>
+						</function>
+					</data>
+				</child>
+				</children>
+			</child>
+<child>
+			<data>
+            <id>f</id>
+				<title><![CDATA[<b>Unit 5:</b> Natural Disasters]]></title>
+			</data>
+			<children>
+				<child>
+					<data>
+                    <id>1</id>
+						<title><![CDATA[Preview ]]></title>
+						<function name="gotoPage">
+						<parameter name="page"><![CDATA[50]]></parameter>
+						</function>
+					</data>
+				</child>
+				<child>
+					<data>
+                    <id>2</id>
+						<title><![CDATA[Lesson 1: Convey a message  ]]></title>
+						<function name="gotoPage">
+						<parameter name="page"><![CDATA[52]]></parameter>
+						</function>
+					</data>
+				</child>
+				<child>
+					<data>
+                    <id>3</id>
+						<title><![CDATA[Lesson 2: Report news ]]></title>
+						<function name="gotoPage">
+						<parameter name="page"><![CDATA[54]]></parameter>
+						</function>
+					</data>
+				</child>
+				<child>
+					<data>
+                    <id>4</id>
+						<title><![CDATA[Lesson 3: Describe natural disasters ]]></title>
+						<function name="gotoPage">
+						<parameter name="page"><![CDATA[56]]></parameter>
+						</function>
+					</data>
+				</child>
+				<child>
+					<data>
+                    <id>5</id>
+						<title><![CDATA[Lesson 4: Prepare for an emergency ]]></title>
+						<function name="gotoPage">
+						<parameter name="page"><![CDATA[58]]></parameter>
+						</function>
+					</data>
+				</child>
+					<child>
+					<data>
+                    <id>6</id>
+						<title><![CDATA[Review ]]></title>
+						<function name="gotoPage">
+						<parameter name="page"><![CDATA[60]]></parameter>
+						</function>
+					</data>
+				</child>
+				</children>
+			</child>
+<child>
+			<data>
+            <id>g</id>
+				<title><![CDATA[<b>Unit 6:</b> Life Plans]]></title>
+			</data>
+			<children>
+				<child>
+					<data>
+                    <id>1</id>
+						<title><![CDATA[Preview ]]></title>
+						<function name="gotoPage">
+						<parameter name="page"><![CDATA[62]]></parameter>
+						</function>
+					</data>
+				</child>
+				<child>
+					<data>
+                    <id>2</id>
+						<title><![CDATA[Lesson 1: Explain a change in life and work plans ]]></title>
+						<function name="gotoPage">
+						<parameter name="page"><![CDATA[64]]></parameter>
+						</function>
+					</data>
+				</child>
+				<child>
+					<data>
+                    <id>3</id>
+						<title><![CDATA[Lesson 2: Express regrets about past actions ]]></title>
+						<function name="gotoPage">
+						<parameter name="page"><![CDATA[66]]></parameter>
+						</function>
+					</data>
+				</child>
+				<child>
+					<data>
+                    <id>4</id>
+						<title><![CDATA[Lesson 3: Discuss skills, abilities, and qualifications ]]></title>
+						<function name="gotoPage">
+						<parameter name="page"><![CDATA[68]]></parameter>
+						</function>
+					</data>
+				</child>
+				<child>
+					<data>
+                    <id>5</id>
+						<title><![CDATA[Lesson 4: Discuss factors that promote success  ]]></title>
+						<function name="gotoPage">
+						<parameter name="page"><![CDATA[70]]></parameter>
+						</function>
+					</data>
+				</child>
+					<child>
+					<data>
+                    <id>6</id>
+						<title><![CDATA[Review ]]></title>
+						<function name="gotoPage">
+						<parameter name="page"><![CDATA[72]]></parameter>
+						</function>
+					</data>
+				</child>
+				</children>
+			</child>
+	<child>
+			<data>
+            <id>h</id>
+				<title><![CDATA[<b>Unit 7:</b> Holidays and Traditions ]]></title>
+			</data>
+			<children>
+				<child>
+					<data>
+                    <id>1</id>
+						<title><![CDATA[Preview ]]></title>
+						<function name="gotoPage">
+						<parameter name="page"><![CDATA[74]]></parameter>
+						</function>
+					</data>
+				</child>
+				<child>
+					<data>
+                    <id>2</id>
+						<title><![CDATA[Lesson 1: Wish someone a good holiday ]]></title>
+						<function name="gotoPage">
+						<parameter name="page"><![CDATA[76]]></parameter>
+						</function>
+					</data>
+				</child>
+				<child>
+					<data>
+                    <id>3</id>
+						<title><![CDATA[Lesson 2: Ask about local customs]]></title>
+						<function name="gotoPage">
+						<parameter name="page"><![CDATA[78]]></parameter>
+						</function>
+					</data>
+				</child>
+				<child>
+					<data>
+                    <id>4</id>
+						<title><![CDATA[Lesson 3: Exchange information about holidays  ]]></title>
+						<function name="gotoPage">
+						<parameter name="page"><![CDATA[80]]></parameter>
+						</function>
+					</data>
+				</child>
+				<child>
+					<data>
+                    <id>5</id>
+						<title><![CDATA[Lesson 4: Explain wedding traditions ]]></title>
+						<function name="gotoPage">
+						<parameter name="page"><![CDATA[82]]></parameter>
+						</function>
+					</data>
+				</child>
+					<child>
+					<data>
+                    <id>6</id>
+						<title><![CDATA[Review ]]></title>
+						<function name="gotoPage">
+						<parameter name="page"><![CDATA[84]]></parameter>
+						</function>
+					</data>
+				</child>
+				</children>
+			</child>
+			
+<child>
+			<data>
+            <id>i</id>
+				<title><![CDATA[<b>Unit 8:</b> Inventions and Discoveries]]></title>
+			</data>
+			<children>
+				<child>
+					<data>
+                    <id>1</id>
+						<title><![CDATA[Preview ]]></title>
+						<function name="gotoPage">
+						<parameter name="page"><![CDATA[86]]></parameter>
+						</function>
+					</data>
+				</child>
+				<child>
+					<data>
+                    <id>2</id>
+						<title><![CDATA[Lesson 1: Describing technology  ]]></title>
+						<function name="gotoPage">
+						<parameter name="page"><![CDATA[88]]></parameter>
+						</function>
+					</data>
+				</child>
+				<child>
+					<data>
+                    <id>3</id>
+						<title><![CDATA[Lesson 2: Take responsibility for a mistake ]]></title>
+						<function name="gotoPage">
+						<parameter name="page"><![CDATA[90]]></parameter>
+						</function>
+					</data>
+				</child>
+				<child>
+					<data>
+                    <id>4</id>
+						<title><![CDATA[Lesson 3: Describe how inventions solve problems ]]></title>
+						<function name="gotoPage">
+						<parameter name="page"><![CDATA[92]]></parameter>
+						</function>
+					</data>
+				</child>
+				<child>
+					<data>
+                    <id>5</id>
+						<title><![CDATA[Lesson 4: Discuss the impact of inventions/discoveries ]]></title>
+						<function name="gotoPage">
+						<parameter name="page"><![CDATA[94]]></parameter>
+						</function>
+					</data>
+				</child>
+					<child>
+					<data>
+                    <id>6</id>
+						<title><![CDATA[Review ]]></title>
+						<function name="gotoPage">
+						<parameter name="page"><![CDATA[96]]></parameter>
+						</function>
+					</data>
+				</child>
+			</children>
+		</child>
+    <child>
+			<data>
+            <id>j</id>
+				<title><![CDATA[<b>Unit 9:</b> Controversial Issues]]></title>
+			</data>
+			<children>
+				<child>
+					<data>
+                    <id>1</id>
+						<title><![CDATA[Preview ]]></title>
+						<function name="gotoPage">
+						<parameter name="page"><![CDATA[98]]></parameter>
+						</function>
+					</data>
+				</child>
+				<child>
+					<data>
+                    <id>2</id>
+						<title><![CDATA[Lesson 1: Bring up a controversial subject]]></title>
+						<function name="gotoPage">
+						<parameter name="page"><![CDATA[100]]></parameter>
+						</function>
+					</data>
+				</child>
+				<child>
+					<data>
+                    <id>3</id>
+						<title><![CDATA[Lesson 2: Discuss controversial issues politely ]]></title>
+						<function name="gotoPage">
+						<parameter name="page"><![CDATA[102]]></parameter>
+						</function>
+					</data>
+				</child>
+				<child>
+					<data>
+                    <id>4</id>
+						<title><![CDATA[Lesson 3: Propose solutions to global problems]]></title>
+						<function name="gotoPage">
+						<parameter name="page"><![CDATA[104]]></parameter>
+						</function>
+					</data>
+				</child>
+				<child>
+					<data>
+                    <id>5</id>
+						<title><![CDATA[Lesson 4: Debate the pros and cons of issues ]]></title>
+						<function name="gotoPage">
+						<parameter name="page"><![CDATA[106]]></parameter>
+						</function>
+					</data>
+				</child>
+					<child>
+					<data>
+                    <id>6</id>
+						<title><![CDATA[Review ]]></title>
+						<function name="gotoPage">
+						<parameter name="page"><![CDATA[108]]></parameter>
+						</function>
+					</data>
+				</child>
+			</children>
+		</child>
+    <child>
+			<data>
+            <id>k</id>
+				<title><![CDATA[<b>Unit 10:</b> Beautiful World]]></title>
+			</data>
+			<children>
+				<child>
+					<data>
+                    <id>1</id>
+						<title><![CDATA[Preview ]]></title>
+						<function name="gotoPage">
+						<parameter name="page"><![CDATA[110]]></parameter>
+						</function>
+					</data>
+				</child>
+				<child>
+					<data>
+                    <id>2</id>
+						<title><![CDATA[Lesson 1: Describe a geographic location ]]></title>
+						<function name="gotoPage">
+						<parameter name="page"><![CDATA[112]]></parameter>
+						</function>
+					</data>
+				</child>
+				<child>
+					<data>
+                    <id>3</id>
+						<title><![CDATA[Lesson 2: Warn about a possible risk  ]]></title>
+						<function name="gotoPage">
+						<parameter name="page"><![CDATA[114]]></parameter>
+						</function>
+					</data>
+				</child>
+				<child>
+					<data>
+                    <id>4</id>
+						<title><![CDATA[Lesson 3: Describe a natural setting ]]></title>
+						<function name="gotoPage">
+						<parameter name="page"><![CDATA[116]]></parameter>
+						</function>
+					</data>
+				</child>
+				<child>
+					<data>
+                    <id>5</id>
+						<title><![CDATA[Lesson 4: Discuss solutions to global warming]]></title>
+						<function name="gotoPage">
+						<parameter name="page"><![CDATA[118]]></parameter>
+						</function>
+					</data>
+				</child>
+					<child>
+					<data>
+                    <id>6</id>
+						<title><![CDATA[Review ]]></title>
+						<function name="gotoPage">
+						<parameter name="page"><![CDATA[120]]></parameter>
+						</function>
+					</data>
+				</child>
+			</children>
+		</child>
+		<child>
+            <data>
+            <id>l</id>
+				<title><![CDATA[<b>Grammar Booster</b>]]></title>
+			</data>
+			<children>
+				<child>
+					<data>
+                    <id>1</id>
+						<title><![CDATA[Unit 1 ]]></title>
+						<function name="gotoPage">
+						<parameter name="page"><![CDATA[122]]></parameter>
+						</function>
+					</data>
+				</child>
+				<child>
+					<data>
+                    <id>2</id>
+						<title><![CDATA[Unit 2 ]]></title>
+						<function name="gotoPage">
+						<parameter name="page"><![CDATA[124]]></parameter>
+						</function>
+					</data>
+				</child>
+				<child>
+					<data>
+                    <id>3</id>
+						<title><![CDATA[Unit 3]]></title>
+						<function name="gotoPage">
+						<parameter name="page"><![CDATA[125]]></parameter>
+						</function>
+					</data>
+				</child>
+				<child>
+					<data>
+                    <id>4</id>
+						<title><![CDATA[Unit 4 ]]></title>
+						<function name="gotoPage">
+						<parameter name="page"><![CDATA[126]]></parameter>
+						</function>
+					</data>
+				</child>
+				<child>
+					<data>
+                    <id>5</id>
+						<title><![CDATA[Unit 5]]></title>
+						<function name="gotoPage">
+						<parameter name="page"><![CDATA[129]]></parameter>
+						</function>
+					</data>
+				</child>
+					<child>
+					<data>
+                    <id>6</id>
+						<title><![CDATA[Unit 6 ]]></title>
+						<function name="gotoPage">
+						<parameter name="page"><![CDATA[130]]></parameter>
+						</function>
+					</data>
+			</child>
+			<child>
+					<data>
+                    <id>7</id>
+						<title><![CDATA[Unit 7 ]]></title>
+						<function name="gotoPage">
+						<parameter name="page"><![CDATA[131]]></parameter>
+						</function>
+					</data>
+			</child>
+			<child>
+					<data>
+                    <id>8</id>
+						<title><![CDATA[Unit 8 ]]></title>
+						<function name="gotoPage">
+						<parameter name="page"><![CDATA[134]]></parameter>
+						</function>
+					</data>
+			</child>
+			<child>
+					<data>
+                    <id>9</id>
+						<title><![CDATA[Unit 9 ]]></title>
+						<function name="gotoPage">
+						<parameter name="page"><![CDATA[136]]></parameter>
+						</function>
+					</data>
+			</child>
+			<child>
+					<data>
+                    <id>10</id>
+						<title><![CDATA[Unit 10 ]]></title>
+						<function name="gotoPage">
+						<parameter name="page"><![CDATA[138]]></parameter>
+						</function>
+					</data>
+			</child>		
+	</children>
+	</child>
+            <child>
+            <data>
+            <id>m</id>
+				<title><![CDATA[<b>Writing Booster</b>]]></title>
+			</data>
+			<children>
+				<child>
+					<data>
+                    <id>1</id>
+						<title><![CDATA[Unit 1 ]]></title>
+						<function name="gotoPage">
+						<parameter name="page"><![CDATA[141]]></parameter>
+						</function>
+					</data>
+				</child>
+				<child>
+					<data>
+                    <id>2</id>
+						<title><![CDATA[Unit 2 ]]></title>
+						<function name="gotoPage">
+						<parameter name="page"><![CDATA[141]]></parameter>
+						</function>
+					</data>
+				</child>
+				<child>
+					<data>
+                    <id>3</id>
+						<title><![CDATA[Unit 3]]></title>
+						<function name="gotoPage">
+						<parameter name="page"><![CDATA[142]]></parameter>
+						</function>
+					</data>
+				</child>
+				<child>
+					<data>
+                    <id>4</id>
+						<title><![CDATA[Unit 4 ]]></title>
+						<function name="gotoPage">
+						<parameter name="page"><![CDATA[143]]></parameter>
+						</function>
+					</data>
+				</child>
+				<child>
+					<data>
+                    <id>5</id>
+						<title><![CDATA[Unit 5]]></title>
+						<function name="gotoPage">
+						<parameter name="page"><![CDATA[144]]></parameter>
+						</function>
+					</data>
+				</child>
+					<child>
+					<data>
+                    <id>6</id>
+						<title><![CDATA[Unit 6 ]]></title>
+						<function name="gotoPage">
+						<parameter name="page"><![CDATA[145]]></parameter>
+						</function>
+					</data>
+			</child>
+			<child>
+					<data>
+                    <id>7</id>
+						<title><![CDATA[Unit 7 ]]></title>
+						<function name="gotoPage">
+						<parameter name="page"><![CDATA[146]]></parameter>
+						</function>
+					</data>
+			</child>
+			<child>
+					<data>
+                    <id>8</id>
+						<title><![CDATA[Unit 8 ]]></title>
+						<function name="gotoPage">
+						<parameter name="page"><![CDATA[146]]></parameter>
+						</function>
+					</data>
+			</child>
+			<child>
+					<data>
+                    <id>9</id>
+						<title><![CDATA[Unit 9 ]]></title>
+						<function name="gotoPage">
+						<parameter name="page"><![CDATA[147]]></parameter>
+						</function>
+					</data>
+			</child>
+			<child>
+					<data>
+                    <id>10</id>
+						<title><![CDATA[Unit 10 ]]></title>
+						<function name="gotoPage">
+						<parameter name="page"><![CDATA[148]]></parameter>
+						</function>
+					</data>
+			</child>		
+	</children>
+	</child>
+            <child>
+            <data>
+            <id>n</id>
+				<title><![CDATA[<b>Top Notch Pop Lyrics</b>]]></title>
+			</data>
+			<children>
+				<child>
+					<data>
+                    <id>1</id>
+						<title><![CDATA[Units 1-5 ]]></title>
+						<function name="gotoPage">
+						<parameter name="page"><![CDATA[149]]></parameter>
+						</function>
+					</data>
+				</child>
+				<child>
+					<data>
+                    <id>2</id>
+						<title><![CDATA[Units 6-10 ]]></title>
+						<function name="gotoPage">
+						<parameter name="page"><![CDATA[150]]></parameter>
+						</function>
+					</data>
+				</child>
+	</children>
+	</child>
+</hierarchy>

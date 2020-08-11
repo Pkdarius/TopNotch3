@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<page id="0066">
+<map name="Map" id="Map">
+<art type="icon">
+<coords><![CDATA[541,325]]></coords>
+<icon><![CDATA[grammar_booster]]></icon>
+<pFunction><![CDATA[generic_gotopage]]></pFunction>
+<scale><![CDATA[80]]></scale>
+<title><![CDATA[Go to Grammar Booster]]></title>
+<page><![CDATA[131]]></page>
+</art>
+<art type="icon">
+<coords><![CDATA[52,581]]></coords>
+<icon><![CDATA[audio_button]]></icon>
+<pFunction><![CDATA[audio_icon]]></pFunction>
+<scale><![CDATA[82]]></scale>
+<href><![CDATA[Top Notch 3 MP3 files/Unit_06/3-24_A_Pronunciation_p66.mp3]]></href>
+<title><![CDATA[Play audio]]></title>
+</art>
+</map>
+</page>

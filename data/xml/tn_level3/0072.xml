@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page id="0072">
+<map name="Map" id="Map">
+<art type="icon" pfunction="generic_gotopage">
+<page><![CDATA[145]]></page>
+<title><![CDATA[Go to Writing Booster]]></title>
+<scale><![CDATA[80]]></scale>
+<icon><![CDATA[writing_booster]]></icon>
+<coords><![CDATA[495,664]]></coords>
+</art><art type="icon" pfunction="audio_icon">
+<title><![CDATA[Play Song]]></title>
+<href><![CDATA[Top Notch 3 MP3 files/Unit_06/3-31_Song_I_Should_Have_p72.mp3]]></href>
+<scale><![CDATA[82]]></scale>
+<icon><![CDATA[tn_music_icon_left]]></icon>
+<coords><![CDATA[430,545]]></coords>
+</art><art type="icon" pfunction="audio_icon">
+<title><![CDATA[Play Karaoke Version]]></title>
+<href><![CDATA[Top Notch 3 MP3 files/Unit_06/3-32_Karaoke_I_Should_Ha_p72.mp3]]></href>
+<scale><![CDATA[82]]></scale>
+<icon><![CDATA[tn_music_icon_right]]></icon>
+<coords><![CDATA[472,546]]></coords>
+</art><art type="icon" pfunction="audio_icon">
+<title><![CDATA[Play audio]]></title>
+<href><![CDATA[Top Notch 3 MP3 files/Unit_06/3-30_A_Listening_compreh_p72.mp3]]></href>
+<scale><![CDATA[82]]></scale>
+<icon><![CDATA[audio_button]]></icon>
+<coords><![CDATA[54,84]]></coords>
+</art></map></page>

@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<page id="0100">
+<map name="Map" id="Map">
+<art type="icon">
+<coords><![CDATA[52,120]]></coords>
+<icon><![CDATA[audio_button]]></icon>
+<pFunction><![CDATA[audio_icon]]></pFunction>
+<scale><![CDATA[82]]></scale>
+<href><![CDATA[Top Notch 3 MP3 files/Unit_09/5-04_A_Vocabulary_p100.mp3]]></href>
+<title><![CDATA[Play audio]]></title>
+</art>
+<art type="icon">
+<coords><![CDATA[52,258]]></coords>
+<icon><![CDATA[audio_button]]></icon>
+<pFunction><![CDATA[audio_icon]]></pFunction>
+<scale><![CDATA[82]]></scale>
+<href><![CDATA[Top Notch 3 MP3 files/Unit_09/5-05_B_Listening_compre_p100.mp3]]></href>
+<title><![CDATA[Play audio]]></title>
+</art>
+<art type="icon">
+<coords><![CDATA[52,417]]></coords>
+<icon><![CDATA[audio_button]]></icon>
+<pFunction><![CDATA[audio_icon]]></pFunction>
+<scale><![CDATA[82]]></scale>
+<href><![CDATA[Top Notch 3 MP3 files/Unit_09/5-06_A_Conversation_mod_p100.mp3]]></href>
+<title><![CDATA[Play audio]]></title>
+</art>
+<art type="icon">
+<coords><![CDATA[52,604]]></coords>
+<icon><![CDATA[audio_button]]></icon>
+<pFunction><![CDATA[audio_icon]]></pFunction>
+<scale><![CDATA[82]]></scale>
+<href><![CDATA[Top Notch 3 MP3 files/Unit_09/5-07_B_Rhythm_and_inton_p100.mp3]]></href>
+<title><![CDATA[Play audio]]></title>
+</art>
+<art type="icon">
+<coords><![CDATA[295,479]]></coords>
+<icon><![CDATA[audio_button]]></icon>
+<pFunction><![CDATA[audio_icon]]></pFunction>
+<scale><![CDATA[82]]></scale>
+<href><![CDATA[Top Notch 3 MP3 files/Unit_09/5-08_Introducing_sticky_p100.mp3]]></href>
+<title><![CDATA[Play audio]]></title>
+</art>
+<art type="icon">
+<coords><![CDATA[52,656]]></coords>
+<icon><![CDATA[audio_button]]></icon>
+<pFunction><![CDATA[audio_icon]]></pFunction>
+<scale><![CDATA[82]]></scale>
+<href><![CDATA[Top Notch 3 MP3 files/Unit_09/5-09_A_Pronunciation_p100.mp3]]></href>
+<title><![CDATA[Play audio]]></title>
+</art>
+</map>
+</page>

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<page id="0008">
+<map name="Map" id="Map">
+<art type="icon">
+<coords><![CDATA[52,121]]></coords>
+<icon><![CDATA[audio_button]]></icon>
+<pFunction><![CDATA[audio_icon]]></pFunction>
+<scale><![CDATA[82]]></scale>
+<href><![CDATA[Top Notch 3 MP3 files/Unit_01/1-11_A_Vocabulary_p08.mp3]]></href>
+<title><![CDATA[Play audio]]></title>
+</art>
+<art type="icon">
+<coords><![CDATA[53,609]]></coords>
+<icon><![CDATA[audio_button]]></icon>
+<pFunction><![CDATA[audio_icon]]></pFunction>
+<scale><![CDATA[82]]></scale>
+<href><![CDATA[Top Notch 3 MP3 files/Unit_01/1-12_A_Listen_for_main_i_p08.mp3]]></href>
+<title><![CDATA[Play audio]]></title>
+</art>
+<art type="icon">
+<coords><![CDATA[52,669]]></coords>
+<icon><![CDATA[audio_button]]></icon>
+<pFunction><![CDATA[audio_icon]]></pFunction>
+<scale><![CDATA[82]]></scale>
+<href><![CDATA[Top Notch 3 MP3 files/Unit_01/1-13_B_Summarize_p08.mp3]]></href>
+<title><![CDATA[Play audio]]></title>
+</art>
+</map>
+</page>

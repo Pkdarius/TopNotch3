@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<page id="0150">
+<map name="Map" id="Map">
+<art type="icon">
+<coords><![CDATA[54,110]]></coords>
+<icon><![CDATA[tn_music_icon_right]]></icon>
+<pFunction><![CDATA[audio_icon]]></pFunction>
+<scale><![CDATA[50]]></scale>
+<href><![CDATA[Top Notch 3 MP3 files/Unit_06/3-32_Karaoke_I_Should_Ha_p72.mp3]]></href>
+<title><![CDATA[Play Karaoke Version]]></title>
+</art>
+<art type="icon">
+<coords><![CDATA[29,110]]></coords>
+<icon><![CDATA[tn_music_icon_left]]></icon>
+<pFunction><![CDATA[audio_icon]]></pFunction>
+<scale><![CDATA[50]]></scale>
+<href><![CDATA[Top Notch 3 MP3 files/Unit_06/3-31_Song_I_Should_Have_p72.mp3]]></href>
+<title><![CDATA[Play Song]]></title>
+</art>
+<art type="icon">
+<coords><![CDATA[54,459]]></coords>
+<icon><![CDATA[tn_music_icon_right]]></icon>
+<pFunction><![CDATA[audio_icon]]></pFunction>
+<scale><![CDATA[50]]></scale>
+<href><![CDATA[Top Notch 3 MP3 files/Unit_07/4-19_Karaoke_Endless_Hol_p84.mp3]]></href>
+<title><![CDATA[Play Karaoke Version]]></title>
+</art>
+<art type="icon">
+<coords><![CDATA[29,459]]></coords>
+<icon><![CDATA[tn_music_icon_left]]></icon>
+<pFunction><![CDATA[audio_icon]]></pFunction>
+<scale><![CDATA[50]]></scale>
+<href><![CDATA[Top Notch 3 MP3 files/Unit_07/4-18_Song_Endless_Holida_p84.mp3]]></href>
+<title><![CDATA[Play Song]]></title>
+</art>
+<art type="icon">
+<coords><![CDATA[205,205]]></coords>
+<icon><![CDATA[tn_music_icon_left]]></icon>
+<pFunction><![CDATA[audio_icon]]></pFunction>
+<scale><![CDATA[50]]></scale>
+<href><![CDATA[Top Notch 3 MP3 files/Unit_08/4-34_Song_Reinvent_the_W_p96.mp3]]></href>
+<title><![CDATA[Play Song]]></title>
+</art>
+<art type="icon">
+<coords><![CDATA[229,205]]></coords>
+<icon><![CDATA[tn_music_icon_right]]></icon>
+<pFunction><![CDATA[audio_icon]]></pFunction>
+<scale><![CDATA[50]]></scale>
+<href><![CDATA[Top Notch 3 MP3 files/Unit_08/4-35_Karaoke_Reinvent_th_p96.mp3]]></href>
+<title><![CDATA[Play Karaoke Version]]></title>
+</art>
+<art type="icon">
+<coords><![CDATA[204,565]]></coords>
+<icon><![CDATA[tn_music_icon_left]]></icon>
+<pFunction><![CDATA[audio_icon]]></pFunction>
+<scale><![CDATA[50]]></scale>
+<href><![CDATA[Top Notch 3 MP3 files/Unit_09/5-21_Song_We_Can_Agree_p108.mp3]]></href>
+<title><![CDATA[Play Song]]></title>
+</art>
+<art type="icon">
+<coords><![CDATA[229,564]]></coords>
+<icon><![CDATA[tn_music_icon_right]]></icon>
+<pFunction><![CDATA[audio_icon]]></pFunction>
+<scale><![CDATA[50]]></scale>
+<href><![CDATA[Top Notch 3 MP3 files/Unit_09/5-22_Karaoke_We_Can_Agr_p108.mp3]]></href>
+<title><![CDATA[Play Karaoke Version]]></title>
+</art>
+<art type="icon">
+<coords><![CDATA[404,305]]></coords>
+<icon><![CDATA[tn_music_icon_right]]></icon>
+<pFunction><![CDATA[audio_icon]]></pFunction>
+<scale><![CDATA[50]]></scale>
+<href><![CDATA[Top Notch 3 MP3 files/Unit_10/5-46_Karaoke_Its_a_Bea_p120.mp3]]></href>
+<title><![CDATA[Play Karaoke Version]]></title>
+</art>
+<art type="icon">
+<coords><![CDATA[379,305]]></coords>
+<icon><![CDATA[tn_music_icon_left]]></icon>
+<pFunction><![CDATA[audio_icon]]></pFunction>
+<scale><![CDATA[50]]></scale>
+<href><![CDATA[Top Notch 3 MP3 files/Unit_10/5-45_Song_Its_a_Beauti_p120.mp3]]></href>
+<title><![CDATA[Play Song]]></title>
+</art>
+</map>
+</page>

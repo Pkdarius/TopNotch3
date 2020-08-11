@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<page id="0149">
+<map name="Map" id="Map">
+<art type="icon">
+<coords><![CDATA[30,45]]></coords>
+<icon><![CDATA[tn_music_icon_left]]></icon>
+<pFunction><![CDATA[audio_icon]]></pFunction>
+<scale><![CDATA[50]]></scale>
+<href><![CDATA[Top Notch 3 MP3 files/Unit_01/1-16_Song_Its_a_Great_D_p12.mp3]]></href>
+<title><![CDATA[Play Song]]></title>
+</art>
+<art type="icon">
+<coords><![CDATA[29,404]]></coords>
+<icon><![CDATA[tn_music_icon_left]]></icon>
+<pFunction><![CDATA[audio_icon]]></pFunction>
+<scale><![CDATA[50]]></scale>
+<href><![CDATA[Top Notch 3 MP3 files/Unit_02/1-33_Song_Xray_of_My_He_p24.mp3]]></href>
+<title><![CDATA[Play Song]]></title>
+</art>
+<art type="icon">
+<coords><![CDATA[54,45]]></coords>
+<icon><![CDATA[tn_music_icon_right]]></icon>
+<pFunction><![CDATA[audio_icon]]></pFunction>
+<scale><![CDATA[50]]></scale>
+<href><![CDATA[Top Notch 3 MP3 files/Unit_01/1-17_Karaoke_Its_a_Grea_p12.mp3]]></href>
+<title><![CDATA[Play Karaoke Version]]></title>
+</art>
+<art type="icon">
+<coords><![CDATA[53,404]]></coords>
+<icon><![CDATA[tn_music_icon_right]]></icon>
+<pFunction><![CDATA[audio_icon]]></pFunction>
+<scale><![CDATA[50]]></scale>
+<href><![CDATA[Top Notch 3 MP3 files/Unit_02/1-34_Karaoke_Xray_of_My_p24.mp3]]></href>
+<title><![CDATA[Play Karaoke Version]]></title>
+</art>
+<art type="icon">
+<coords><![CDATA[227,183]]></coords>
+<icon><![CDATA[tn_music_icon_right]]></icon>
+<pFunction><![CDATA[audio_icon]]></pFunction>
+<scale><![CDATA[50]]></scale>
+<href><![CDATA[Top Notch 3 MP3 files/Unit_03/2-18_Karaoke_Ill_Get_Ba_p36.mp3]]></href>
+<title><![CDATA[Play Karaoke Version]]></title>
+</art>
+<art type="icon">
+<coords><![CDATA[203,183]]></coords>
+<icon><![CDATA[tn_music_icon_left]]></icon>
+<pFunction><![CDATA[audio_icon]]></pFunction>
+<scale><![CDATA[50]]></scale>
+<href><![CDATA[Top Notch 3 MP3 files/Unit_03/2-17_Song_Ill_Get_Back__p36.mp3]]></href>
+<title><![CDATA[Play Song]]></title>
+</art>
+<art type="icon">
+<coords><![CDATA[228,654]]></coords>
+<icon><![CDATA[tn_music_icon_right]]></icon>
+<pFunction><![CDATA[audio_icon]]></pFunction>
+<scale><![CDATA[50]]></scale>
+<href><![CDATA[Top Notch 3 MP3 files/Unit_04/2-32_Karaoke_A_True_Life_p48.mp3]]></href>
+<title><![CDATA[Play Karaoke Version]]></title>
+</art>
+<art type="icon">
+<coords><![CDATA[203,654]]></coords>
+<icon><![CDATA[tn_music_icon_left]]></icon>
+<pFunction><![CDATA[audio_icon]]></pFunction>
+<scale><![CDATA[50]]></scale>
+<href><![CDATA[Top Notch 3 MP3 files/Unit_04/2-31_Song_A_True_Life_St_p48.mp3]]></href>
+<title><![CDATA[Play Song]]></title>
+</art>
+<art type="icon">
+<coords><![CDATA[401,358]]></coords>
+<icon><![CDATA[tn_music_icon_right]]></icon>
+<pFunction><![CDATA[audio_icon]]></pFunction>
+<scale><![CDATA[50]]></scale>
+<href><![CDATA[Top Notch 3 MP3 files/Unit_05/3-18_Karaoke_Lucky_to_Be_p60.mp3]]></href>
+<title><![CDATA[Play Karaoke Version]]></title>
+</art>
+<art type="icon">
+<coords><![CDATA[376,358]]></coords>
+<icon><![CDATA[tn_music_icon_left]]></icon>
+<pFunction><![CDATA[audio_icon]]></pFunction>
+<scale><![CDATA[50]]></scale>
+<href><![CDATA[Top Notch 3 MP3 files/Unit_05/3-17_Song_Lucky_to_Be_Al_p60.mp3]]></href>
+<title><![CDATA[Play Song]]></title>
+</art>
+</map>
+</page>

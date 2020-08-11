@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<page id="0120">
+<map name="Map" id="Map">
+<art type="icon">
+<coords><![CDATA[467,639]]></coords>
+<icon><![CDATA[writing_booster]]></icon>
+<pFunction><![CDATA[generic_gotopage]]></pFunction>
+<scale><![CDATA[80]]></scale>
+<title><![CDATA[Go to Writing Booster]]></title>
+<page><![CDATA[148]]></page>
+</art>
+<art type="icon">
+<coords><![CDATA[53,76]]></coords>
+<icon><![CDATA[audio_button]]></icon>
+<pFunction><![CDATA[audio_icon]]></pFunction>
+<scale><![CDATA[82]]></scale>
+<href><![CDATA[Top Notch 3 MP3 files/Unit_10/5-44_A_Listening_compre_p120.mp3]]></href>
+<title><![CDATA[Play audio]]></title>
+</art>
+<art type="icon">
+<coords><![CDATA[436,287]]></coords>
+<icon><![CDATA[tn_music_icon_left]]></icon>
+<pFunction><![CDATA[audio_icon]]></pFunction>
+<scale><![CDATA[82]]></scale>
+<href><![CDATA[Top Notch 3 MP3 files/Unit_10/5-45_Song_Its_a_Beauti_p120.mp3]]></href>
+<title><![CDATA[Play Song]]></title>
+</art>
+<art type="icon">
+<coords><![CDATA[479,287]]></coords>
+<icon><![CDATA[tn_music_icon_right]]></icon>
+<pFunction><![CDATA[audio_icon]]></pFunction>
+<scale><![CDATA[82]]></scale>
+<href><![CDATA[Top Notch 3 MP3 files/Unit_10/5-46_Karaoke_Its_a_Bea_p120.mp3]]></href>
+<title><![CDATA[Play Karaoke Version]]></title>
+</art>
+</map>
+</page>

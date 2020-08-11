@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page id="0101">
+<map name="Map" id="Map">
+<art type="icon" pfunction="generic_gotopage">
+<scale><![CDATA[80]]></scale>
+<title><![CDATA[Go to Grammar Booster]]></title>
+<page><![CDATA[136]]></page>
+<icon><![CDATA[grammar_booster]]></icon>
+<coords><![CDATA[512,80]]></coords>
+</art></map></page>
